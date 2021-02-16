@@ -31,7 +31,7 @@ const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Affis Admin\n' 
+            + 'FN:Argote Admin\n' 
             + 'ORG: Pengembang XBot;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=51916659000:+51 916 659 000\n' 
             + 'END:VCARD' 
@@ -46,7 +46,7 @@ const time = moment().tz('Asia/Jakarta').format("HH:mm:ss")
 const arrayBulan = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember']
 const bulan = arrayBulan[moment().format('MM') - 1]
 const config = {
-    XBOT: '⸙ꦿꦼ͢ ƇƛNƇHƖƬƛ➥', 
+    XBOT: '🇳🇮⃟᤻۞꙰⃪░ҒƁƖ ⃪࿗᭄⃟᤻ ⃟꙰࿃', 
     instagram: 'tal vez', 
     nomer: 'wa.me/+51916659000',
     youtube: 'algun dia', 
