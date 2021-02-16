@@ -106,7 +106,7 @@ client.on('group-participants-update', async (anu) => {
 				} catch {
 					ppimg = 'https://i0.wp.com/www.gambarunik.id/wp-content/uploads/2019/06/Top-Gambar-Foto-Profil-Kosong-Lucu-Tergokil-.jpg'
 				}
-				teks = `*❐❯─᤻─⃟᤻─᤻─᤻─᤻─᤻「⃞🌎⃞」─᤻─᤻─᤻─⃟᤻─᤻─᤻❮❐*\n\nBienvenido @${num.split('@')[0]}\n\n*┏━┅┅┅┅┅┅┄⟞⟦⟝┄┉┉┅┅┅┅━┓*\n${mdata.subject}\n*┗━┅┅┅┅┅┅┅┄⟞⟦⟝┄┅┅┅┉┉━┛* \n\n_*Espero que se sienta como en casa aquí*_\n\n*S᤻i᤻ n᤻e᤻c᤻e᤻s᤻it᤻a᤻ a᤻y᤻᤻u᤻d᤻a᤻*\n*❐⃟✓* Comuniquese de con un administrador\n*❐⃟✓* Este es un bot de bienvenida, stickers y cosas varias`
+				teks = `*❐❯─᤻─⃟᤻─᤻─᤻─᤻─᤻「⃞🌎⃞」─᤻─᤻─᤻─⃟᤻─᤻─᤻❮❐*\n\nBienvenido @${num.split('@')[0]}\n\n*┏━┅┅┅┅┅┅┄⟞⟦⟝┉┉┅┅┅┅━┓*\n${mdata.subject}\n*┗━┅┅┅┅┅┅┅┄⟞⟦⟝┅┅┅┉┉━┛* \n\n_*Espero que se sienta como en casa aquí*_\n\n*S᤻i᤻ n᤻e᤻c᤻e᤻s᤻it᤻a᤻ a᤻y᤻᤻u᤻d᤻a᤻*\n*❐⃟✓* Comuniquese de con un administrador\n*❐⃟✓* Este es un bot de bienvenida, stickers y cosas varias`
 				let buff = await getBuffer(ppimg)
 				client.sendMessage(mdata.id, buff, MessageType.image, {caption: teks, contextInfo: {"mentionedJid": [num]}})
 			} else if (anu.action == 'remove') {
