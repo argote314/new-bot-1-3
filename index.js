@@ -410,6 +410,14 @@ client.on('group-participants-update', async (anu) => {
 					pok = await getBuffer(nimek)
 					client.sendMessage(from, pok, image, { quoted: mek })
 					break
+		case 'meme':
+					anu = await fetchJson(`https://api.fdci.se/rep.php?gambar=meme`, {method: 'get'})
+					reply(mess.wait)
+					var n = JSON.parse(JSON.stringify(anu));
+					var nimek =  n[Math.floor(Math.random() * n.length)];
+					pok = await getBuffer(nimek)
+					client.sendMessage(from, pok, image, { quoted: mek })
+					break
                 case 'anjing':
 					anu = await fetchJson(`https://api.fdci.se/rep.php?gambar=anjing`, {method: 'get'})
 					reply(mess.wait)
