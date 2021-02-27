@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.pinimg.com/originals/c8/cd/39/c8cd396e30f743912d147ba741556832.png" width="128" height="128"/>
+<img src="https://i.pinimg.com/originals/c8/cd/39/c8cd396e30f743912d147ba741556832.png" width="140" height="140"/>
 </p>
 <p align="center">
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Termux Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
@@ -18,7 +18,7 @@
 ## Clone this project
 
 ```bash
-> git clone https://https://github.com/argote314/bot-what
+> git https://github.com/argote314/nuevo-bot-13-1
 ```
 
 ## Install the dependencies:
@@ -26,7 +26,7 @@ Before running the below command, make sure you're in the project directory that
 you've just cloned!!
 
 ```bash
-> cd bot-what
+> cd nuevo-bot-13-1
 > bash install.sh
 ```
 
