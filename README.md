@@ -37,19 +37,19 @@ you've just cloned!!
 
 ## Features
 
-| Sticker Creator |                Feature           |
+| Sticker Creator |              Presentado           |
 | :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
-|       ✅       | Reply A Photo                    |
-|       ✅       | Reply A Video or GIF             |
+|       ✅       | Enviar foto con pie de foto      |
+|       ✅       | Responder una foto               |
+|       ✅       | Responder un Video o GIF         |
 |       ✅       | Send Video or GIF with Caption   |
 |       ✅       | Reply A Sticker ( sticker to image ) |
 
-| Other  |                     Feature                     |
+| Otros           |     Presentado                    |
 | :------------: | :---------------------------------------------: |
 |       ✅        |   Get a random meme             |
 |       ✅        |   Text to speech                |
-|       ✅        |   Writing feature 				|
+|       ✅        |   Writing feature 			   	|
 |       ✅        |   What Anime Is This 			|
 |       ✅        |   Url2Img ( Screeenshot Web )   |
 |       ✅        |   Simsimi		                |
