@@ -42,19 +42,19 @@ you've just cloned!!
 |       ✅       | Enviar foto con pie de foto      |
 |       ✅       | Responder una foto               |
 |       ✅       | Responder un Video o GIF         |
-|       ✅       | Send Video or GIF with Caption   |
-|       ✅       | Reply A Sticker ( sticker to image ) |
+| ✅ | Enviar video o GIF con título |
+| ✅ | Responder una pegatina (pegatina a la imagen) |
 
 | Otros           |     Presentado                    |
 | :------------: | :---------------------------------------------: |
-|       ✅        |   Get a random meme             |
-|       ✅        |   Text to speech                |
-|       ✅        |   Writing feature 			   	|
-|       ✅        |   What Anime Is This 			|
-|       ✅        |   Url2Img ( Screeenshot Web )   |
-|       ✅        |   Simsimi		                |
+✅ | Obtener un meme aleatorio |
+| ✅ | Texto a voz |
+| ✅ | Característica de escritura |
+| ✅ | ¿Qué anime es este?
+| ✅ | Url2Img (Screeenshot Web) |
+| ✅ | Simsimi |
 
-| Group  |                     Feature               |
+| Group  |                     Presentado              |
 | :-----------: | :--------------------------------: |
 | ✅ | Miembro de Tagall / Mentionall |
 | ✅ | Tagall2 / Mentionall miembro |
@@ -65,11 +65,11 @@ you've just cloned!!
 | ✅ | Obtener enlace de invitación de grupo |
 | ✅ | Bot dejar el grupo |
 
-| Owner Bot  |                     Feature           |
+| Owner Bot  |                   Presentado          |
 | :-----------: | :--------------------------------: |
-|       ✅        |   Set Prefix                     |
-|       ✅        |   Broadcast                      |
-|       ✅        |   Clear All Chats                |
+| ✅ | Conjunto de prefijos |
+| ✅ | Difusión |
+| ✅ | Borrar todos los chats |
 
 ## Special Thanks to
 * [`adiwajshing/Baileys`](https://github.com/adiwajshing/Baileys)
