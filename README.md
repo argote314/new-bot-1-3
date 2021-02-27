@@ -5,7 +5,7 @@
 <a href="#"><img title="Whatsapp-Bot" src="https://img.shields.io/badge/Nuevo Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/argote314"><img title="Autor" src="https://img.shields.io/badge/Author-argote-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/argote314"><img title="Autor" src="https://img.shields.io/badge/Autor-argote-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/argote314/nuevo-bot-13-1/watchers"><img title="Followers" src="https://img.shields.io/github/followers/argote314?color=blue&style=flat-square"></a>
