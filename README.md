@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/argote314/nuevo-bot-13-1/watchers"><img title="Followers" src="https://img.shields.io/github/followers/argote314?color=blue&style=flat-square"></a>
-<a href="https://github.com/argote314/nuevo-bot-13-1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/argote?color=red&style=flat-square"></a>
+<a href="https://github.com/argote314/nuevo-bot-13-1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/argote314?color=red&style=flat-square"></a>
 <a href="https://github.com/argote314/nuevo-bot-13-1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/argote314/nuevo-bot-13-1?color=red&style=flat-square"></a>
 <a href="https://github.com/argote/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/argote?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
