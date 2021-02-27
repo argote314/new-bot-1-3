@@ -56,14 +56,14 @@ you've just cloned!!
 
 | Group  |                     Feature               |
 | :-----------: | :--------------------------------: |
-|       ✅        |   Tagall/Mentionall member       |
-|       ✅        |   Tagall2/Mentionall member       |
-|       ✅        |   Tagall3/Mentionall member       |
-|       ✅        |   Kick Member Group	             |
-|       ✅        |   Add Member Group	             |
-|       ✅        |   Get List Admins Group          |
-|       ✅        |   Get Group Invite Link          |
-|       ✅        |   Bot leave the group            |
+| ✅ | Miembro de Tagall / Mentionall |
+| ✅ | Tagall2 / Mentionall miembro |
+| ✅ | Tagall3 / Mentionall miembro |
+| ✅ | Kick Member Group |
+| ✅ | Agregar grupo de miembros |
+| ✅ | Obtener grupo de administradores de lista |
+| ✅ | Obtener enlace de invitación de grupo |
+| ✅ | Bot dejar el grupo |
 
 | Owner Bot  |                     Feature           |
 | :-----------: | :--------------------------------: |
