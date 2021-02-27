@@ -15,27 +15,26 @@
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/MAINTENED-YES-blue.svg"</a>
 </p>
 
-## Clone this project
+## Clonar este proyecto
 
 ```bash
 > git https://github.com/argote314/nuevo-bot-13-1
 ```
 
-## Install the dependencies:
-Before running the below command, make sure you're in the project directory that
-you've just cloned!!
-
+##Instale las dependencias:
+Antes de ejecutar el siguiente comando, asegúrese de estar en el directorio del proyecto que
+acabas de clonar !!
 ```bash
 > cd nuevo-bot-13-1
 > bash install.sh
 ```
 
-### Usage
+### Activar
 ```bash
 > npm start
 ```
 
-## Features
+## Destacadas funciones
 
 | Sticker Creator |              Presentado           |
 | :-----------: | :--------------------------------: |
