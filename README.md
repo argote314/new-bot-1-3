@@ -21,7 +21,7 @@
 > git https://github.com/argote314/nuevo-bot-13-1
 ```
 
-##Instale las dependencias:
+## Instale las dependencias:
 Antes de ejecutar el siguiente comando, asegúrese de estar en el directorio del proyecto que
 acabas de clonar !!
 ```bash
