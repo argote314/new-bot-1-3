@@ -18,7 +18,7 @@
 ## Clonar este proyecto
 
 ```bash
-> git https://github.com/argote314/nuevo-bot-13-1
+> git clone https://github.com/argote314/nuevo-bot-13-1
 ```
 
 ## Instale las dependencias:
