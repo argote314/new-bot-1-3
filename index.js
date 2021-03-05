@@ -339,11 +339,7 @@ client.on('group-participants-update', async (anu) => {
 					anu = await fetchJson(`https://mnazria.herokuapp.com/api/anime?query=${teks}`, {method: 'get'})
 					reply('anime nya ni '+teks+' adalah :\n\n'+anu.title)
 					break
-                case 'neko':
-                    anu = await fetchJson(`https://arugaz.herokuapp.com/api/nekonime` , {method: 'get'})
-                    buf = await getBuffer(anu.result)
-                    client.sendMessage(from, buf, image, { quoted: mek, caption: 'ih wibu'})
-                break
+               
                 case 'dewabatch':
                     teks = body.slice(11)
                     anu = await fetchJson(`https://arugaz.herokuapp.com/api/dewabatch?q=${teks}` , {method: 'get'})
